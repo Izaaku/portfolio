@@ -1,0 +1,32 @@
+# Secrets / config — NEVER commit
+.env
+.env.*
+*.env
+secrets.*
+credentials*
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Models / data / build artifacts
+*.onnx
+*.bin
+models/
+data/
+/data/mt/
+node_modules/
+dist/
+build/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
