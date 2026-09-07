@@ -1,8 +1,9 @@
 # Isaak Uribe — Engineering Portfolio
 
-Software developer focused on real-time, ML-powered systems. Below are two production projects
-I designed and built end to end — including the hard parts: fault-tolerant service design,
-running full ML pipelines in the browser, and low-level ONNX model debugging.
+Software developer focused on real-time, ML-powered systems. Below are three products I designed,
+built, and shipped end to end — two production web apps and a published Chrome extension —
+including the hard parts: fault-tolerant service design, running full ML pipelines in the browser,
+and low-level ONNX model debugging.
 
 > Bilingual (C1 English) · PCAP-certified (Python Institute) · Querétaro, Mexico · Open to remote
 > · [github.com/Izaaku](https://github.com/Izaaku)
@@ -33,6 +34,17 @@ marginal cost, and fixing a bug the managed product had.
 
 ---
 
+## 🧩 Polyglot Desk — AI Writing Assistant (Chrome Extension)
+
+A **Chrome extension published on the Chrome Web Store** — an AI writing assistant for support
+agents: grammar and punctuation fixes, rewrite, hover-to-translate, voice dictation, and
+predictive autocomplete across **30+ languages**, embedded directly into any browser text field
+(Manifest V3, no tab-switching).
+
+→ **[View on the Chrome Web Store](https://chromewebstore.google.com/detail/polyglot-desk/iahcimnkfmlhndlgpnfngnfecklajlnb)**
+
+---
+
 ## Code highlights
 
 A few representative files from these projects (the full products are private):
@@ -49,9 +61,10 @@ A few representative files from these projects (the full products are private):
 
 **Languages:** Python, JavaScript, SQL, HTML, CSS
 **Backend:** Flask, Flask-SocketIO / WebSockets, REST APIs, SQLAlchemy, PostgreSQL, gunicorn
+**Browser:** Chrome Extensions (Manifest V3), WebAssembly, transformers.js
 **ML / Inference:** ONNX / onnxruntime, CTranslate2, transformers.js, WebAssembly inference, Whisper
 **Infra:** Docker, CI/CD (GitHub Actions), Fly.io, Railway, Git, Stripe
 
 ---
 
-*Contact: izaak16@live.com.mx*
+*Contact: izaaku16@gmail.com*
